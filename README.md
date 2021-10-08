@@ -1,5 +1,5 @@
 ## Rogue
-Simple Python *in-memory* RCE Tool
+Simple Python *in-memory* RCE & AV Evasion Tool
 
 1. **sample:** Sample payload for Rogue.
 2. **rogue.py:** Rogue code.
